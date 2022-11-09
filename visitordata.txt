@@ -1,0 +1,12 @@
+1:Aju:Male:Delhi:Peter:Business:659856
+2:Biju:Female:Delhi:Avalose:Business:659856
+3:Tiju:Male:Cochin:Peter:Pleasure:659856
+4:Ciju:Female:Delhi:Kivalose:Pleasure:6598124556
+5:Diju:Male:Cochin:Peter:Pleasure:659856
+6:Eju:Female:Delhi:Peter:Business:12659856
+7:Fiju:Male:Cochin:Thir:Pleasure:659856
+8:Giju:Female:Delhi:Peter:Pleasure:659856
+9:Hiju:Male:Cochin:Mri:Pleasure:12659856
+10:Iiju:Female:Cochin:Peter:Pleasure:659856
+12:Jiju:Male:Delhi:Peter:Business:659856
+12:Kiju:Female:Cochin:Pri:Business:12659856
