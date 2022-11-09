@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8u4QPFQk8XQYQuOlHBJDa6a6yRKvg8iHwVmB3hpR21AygBhV5CVZBxwToXBkCW/0EOs72H34/hPOi6+UbY/X5g==",
+  "success": true,
+  "projectFilePath": "C:\\Git Demo\\Day6_AB\\Delegates\\Delegates\\Delegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\B.Arunkumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
